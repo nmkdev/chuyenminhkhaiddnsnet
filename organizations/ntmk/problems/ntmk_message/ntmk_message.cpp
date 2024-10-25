@@ -14,7 +14,6 @@ void readdata(){
     }
 }
 
-
 int main() {
     readdata();
     return 0;
